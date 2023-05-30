@@ -1,0 +1,24 @@
+.display{
+ width: 280px;
+ text-align: right; 
+ color:#FFFFFF;
+ background-color: #000000;
+}
+
+input{
+  width: 70px;
+  height: 50px;
+  background-color:#CCCCCC;
+}
+
+.allclear{
+  width: 145px;
+  height: 50px;
+  background-color:#CCCCCC;
+}
+
+.equal{
+  width: 145px;
+  height: 50px;
+  background-color:#CCCCCC;
+}
